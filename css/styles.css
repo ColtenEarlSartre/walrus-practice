@@ -14,12 +14,22 @@
   text-decoration: underline;
 }
 
+
 .green-background{
   background-color: green;
 }
 .yellow-background{
   background-color: yellow;
 }
-.red-backgrond{
+.red-background{
   background-color: red;
+}
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color: white;
+  color: black;
 }
