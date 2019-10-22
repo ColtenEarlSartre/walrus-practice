@@ -13,3 +13,13 @@
 .clickable:hover{
   text-decoration: underline;
 }
+
+.green-background{
+  background-color: green;
+}
+.yellow-background{
+  background-color: yellow;
+}
+.red-backgrond{
+  background-color: red;
+}
